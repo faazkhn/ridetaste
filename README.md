@@ -1,6 +1,6 @@
 # RideTaste 🚲
 
-[![Tests](https://github.com/Blop77/Qloo/actions/workflows/test.yml/badge.svg)](https://github.com/Blop77/Qloo/actions/workflows/test.yml)
+[![Tests](https://github.com/faazkhn/ridetaste/actions/workflows/test.yml/badge.svg)](https://github.com/faazkhn/ridetaste/actions/workflows/test.yml)
 
 **An AI agent that plans bike rides around your taste.**
 
@@ -97,7 +97,7 @@ invent opening hours, prices or road conditions.
 You need Node.js 20.12 or newer.
 
 ```bash
-git clone https://github.com/Blop77/Qloo.git ridetaste
+git clone https://github.com/faazkhn/ridetaste.git ridetaste
 cd ridetaste
 npm install
 cp .env.example .env      # add your keys (optional, see below)

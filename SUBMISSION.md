@@ -97,7 +97,7 @@ javascript, node.js, qloo, openai, chatgpt, claude, anthropic-api, leaflet, open
 
 ## Try it out links
 
-- GitHub: https://github.com/Blop77/Qloo
+- GitHub: https://github.com/faazkhn/ridetaste
 - Live demo: https://ridetaste.onrender.com
 
 ## Media
